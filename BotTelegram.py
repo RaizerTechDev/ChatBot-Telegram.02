@@ -1,9 +1,15 @@
 import telebot
 
-CHAVE_API = "6136884195:AAHQhkSQyYOmsdmpzXry6iLx7Fbuf-Qb1Lc"
+# Importar as bibliotecas no terminal de comando:
+# Para o telegram => pip install pytelegrambotapi 
+# => Para o deplpy da instancia AWS/EC2 => pip3 install pyinstaller
+# e logo após => pyinstaller --onefile BotTelegram.py
 
+CHAVE_API = "6136884195:AAHQhkSQyYOmsdmpzXry6iLx7Fbuf-Qb1Lc"
 bot = telebot.TeleBot(CHAVE_API)
 
+# Mensagem do bot em execução
+print("Bot inicializado...") 
 
 @bot.message_handler(commands=["1"])
 def pizza(mensagem):
