@@ -15,7 +15,7 @@
 
 ### O projeto consiste em uma aplicação onde o usuário vai interagir através de perguntas realizadas pelo _boot_, utilizando a principal stack Python, as bibliotecas os, pip3 e pyinstaller e como deploy instanciando o AWS/EC2 para criar um projeto incrível e de alta performance.
 ### <img src="https://media.giphy.com/media/9TFBxN300KpCUI6sBD/giphy.gif" align="center" height="65" width="65"> 
-## [Clique aqui para inicializar o ChatBot](https://github.com/RafaRz76Dev/cha/raw/master/dist/chat.exe)
+## [Clique aqui para inicializar o ChatBot](https://github.com/RafaRz76Dev/Projeto02-ChatBot-Telegram/raw/master/dist/BotTelegram.exe)
 
 ## [Clique aqui para acessar o Telegram](https://t.me/rafarz76dev_bot)
 
